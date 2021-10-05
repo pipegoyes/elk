@@ -5,7 +5,7 @@ services:
         - "9200:9200"
     environment:
       ES_JAVA_OPTS: "-Xmx256m -Xms256m"
-      ELASTIC_PASSWORD: admin123
+      ELASTIC_PASSWORD: MYPASSWORD
     networks:
         - elasticNetwork
     image: docker.elastic.co/elasticsearch/elasticsearch:7.10.2

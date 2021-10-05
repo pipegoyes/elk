@@ -13,7 +13,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -57,7 +57,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -101,7 +101,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -145,7 +145,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -189,7 +189,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -230,7 +230,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -265,7 +265,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -309,7 +309,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
@@ -353,7 +353,7 @@
 					"basic": [
 						{
 							"key": "password",
-							"value": "admin123",
+							"value": "MYPASSWORD",
 							"type": "string"
 						},
 						{
